@@ -1,0 +1,3 @@
+/home/theshadow/Downloads/progetto6/seriale/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/theshadow/Downloads/progetto6/seriale/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/theshadow/Downloads/progetto6/seriale/cmake-build-debug/CMakeFiles/progettoMulticoreSerialeFINALE11.dir
